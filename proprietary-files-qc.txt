@@ -539,7 +539,6 @@ vendor/lib64/hw/vendor.qti.esepowermanager@1.0-impl.so
 
 # Fingerprint service
 vendor/bin/hw/btlfpserver
-vendor/etc/init/hw/init.betterlife.rc
 vendor/lib64/libbl_fp_algo.so
 vendor/lib64/libBtlFpHal.so
 vendor/lib64/libxuFPAlg.so
